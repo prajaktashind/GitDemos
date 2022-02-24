@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYfd3RWb9F2Euyv8/Ubq2GVWFrf1attsyUJk4QZHAkabnL+FHTRoybi6s8zhMQ3yLlqrE4z3mhYOYGgHmsvbyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2064646\\DotnetTraining\\GitDemo\\giteapi\\giteapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2064646\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\2064646\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\2064646\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\2064646\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\2064646\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\2064646\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
